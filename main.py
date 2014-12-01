@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from appium import webdriver
 import time
 
@@ -17,7 +19,7 @@ button.click()
 
 time.sleep(1)
 
-print wd.page_source
+# print wd.page_source
 
 alertButton = wd.find_element_by_accessibility_id('Thanks')
 alertButton.click()
