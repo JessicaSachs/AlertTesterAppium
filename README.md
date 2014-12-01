@@ -8,7 +8,7 @@ This is the most basic smoke test for an app that has an alert.
 
 #### AlertTester.app
 
-AlertTester has one button named "Tap!". When you tap it, an alert comes up with a button to dismiss it labeled "Thanks".
+AlertTester has one button named "Tap me!". When you tap it, an alert comes up with a button to dismiss it labeled "Thanks".
 
 #### Usage:
 
